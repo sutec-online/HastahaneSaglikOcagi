@@ -1,0 +1,2 @@
+Health Clinics System yazýlýmý Neo4j veritabaný ile çalýþmaktadýr. Sistem, NoSQL bir veritabaný ile çalýþtýðýndan, kurulumu için özellikle yüklemeniz gereken herhangi bir veritabaný dosyasý yoktur. Neo4j community server kurulumunu yapýp baðlantý bilgilerini HCS klasörü içerisindeki LoginScreen.cs dosyasýnda güncellemeniz gerekmektedir.
+ÞS

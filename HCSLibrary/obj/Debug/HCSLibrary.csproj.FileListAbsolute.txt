@@ -1,0 +1,10 @@
+c:\Users\seymasarigil\documents\visual studio 2015\Projects\HCS\HCSLibrary\bin\Debug\HCSLibrary.dll
+c:\Users\seymasarigil\documents\visual studio 2015\Projects\HCS\HCSLibrary\bin\Debug\HCSLibrary.pdb
+c:\Users\seymasarigil\documents\visual studio 2015\Projects\HCS\HCSLibrary\bin\Debug\Neo4jClient.dll
+c:\Users\seymasarigil\documents\visual studio 2015\Projects\HCS\HCSLibrary\bin\Debug\Newtonsoft.Json.dll
+c:\Users\seymasarigil\documents\visual studio 2015\Projects\HCS\HCSLibrary\bin\Debug\Neo4jClient.pdb
+c:\Users\seymasarigil\documents\visual studio 2015\Projects\HCS\HCSLibrary\bin\Debug\Neo4jClient.xml
+c:\Users\seymasarigil\documents\visual studio 2015\Projects\HCS\HCSLibrary\bin\Debug\Newtonsoft.Json.xml
+c:\Users\seymasarigil\documents\visual studio 2015\Projects\HCS\HCSLibrary\obj\Debug\HCSLibrary.csprojResolveAssemblyReference.cache
+c:\Users\seymasarigil\documents\visual studio 2015\Projects\HCS\HCSLibrary\obj\Debug\HCSLibrary.dll
+c:\Users\seymasarigil\documents\visual studio 2015\Projects\HCS\HCSLibrary\obj\Debug\HCSLibrary.pdb
